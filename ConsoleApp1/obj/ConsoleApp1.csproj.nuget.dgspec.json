@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Lab\\lab2\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Lab\\lab2\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "c:\\Lab\\lab2\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Lab\\lab2\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Lab\\lab2\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Lab\\lab2\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "c:\\Lab\\lab2\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Lab\\lab2\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "c:\\Lab\\lab2\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Lab\\lab2\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
